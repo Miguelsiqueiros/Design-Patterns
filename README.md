@@ -2,7 +2,7 @@
 
 This project contains code examples for the following design patterns.
 
-## Estructural Patterns
+## Structural Patterns
 
 - Adapter
 - Bridge
